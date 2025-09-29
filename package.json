@@ -2,7 +2,7 @@
   "name": "vendor-management-server",
   "version": "1.0.0",
   "description": "Backend server for market management system",
-  "main": "src/app.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
